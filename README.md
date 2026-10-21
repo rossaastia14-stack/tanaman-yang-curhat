@@ -8,7 +8,7 @@ Aplikasi IoT yang membuat tanaman "bicara". Perangkat (simulator Python) mengiri
 Praktik Integrasi Komputasi Awan dan IoT, D4 Teknik Elektronika UNY, UTS Semester Ganjil 2026.
 Pembuat: ROSSA ASTIA KIRANIA PUTRI NIM 24090620041
 
-Video penjelasan: *(tempel tautan YouTube tidak terdaftar atau Google Drive di sini)*
+Video penjelasan: *[](https://youtu.be/knQaTFFKneo)*
 
 ## Arsitektur (Arsitektur A: langsung ke Supabase, HTTPS/REST)
 
